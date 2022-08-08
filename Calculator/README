@@ -1,0 +1,6 @@
+Simple Calculator
+simple calculator that you can perform some simple operations like (add, subtract, multiply, divide).on two numbers, 
+each one consist of two digit
+
+Drivers:DIO,KEYPAD,LCD
+Microcontroller:ATmega32
