@@ -1,0 +1,609 @@
+Archive member included because of file (symbol)
+
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              timer_driver.o (__divsf3)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              SlaveCode.o (__fixunssfsi)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              SlaveCode.o (__floatunsisf)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              SlaveCode.o (__mulsf3)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                              d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                              ADC_driver.o (__do_copy_data)
+d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                              ADC_driver.o (__do_clear_bss)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+LOAD ADC_driver.o
+LOAD DIO.o
+LOAD LED.o
+LOAD SlaveCode.o
+LOAD SPI_driver.o
+LOAD timer_driver.o
+START GROUP
+LOAD d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+LOAD d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+LOAD d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a
+LOAD d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xdfa
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x00000054       0x60 SlaveCode.o
+ *(.progmem*)
+                0x000000b4                . = ALIGN (0x2)
+                0x000000b4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000b4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000b4                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000b4                __ctors_start = .
+ *(.ctors)
+                0x000000b4                __ctors_end = .
+                0x000000b4                __dtors_start = .
+ *(.dtors)
+                0x000000b4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000b4        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+                0x000000b4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000b4        0xc d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000c0       0x16 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                0x000000c0                __do_copy_data
+ .init4         0x000000d6       0x10 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000d6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000e6        0x8 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ee        0x4 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+                0x000000ee                __vector_1
+                0x000000ee                __vector_12
+                0x000000ee                __bad_interrupt
+                0x000000ee                __vector_6
+                0x000000ee                __vector_3
+                0x000000ee                __vector_11
+                0x000000ee                __vector_13
+                0x000000ee                __vector_17
+                0x000000ee                __vector_19
+                0x000000ee                __vector_7
+                0x000000ee                __vector_5
+                0x000000ee                __vector_4
+                0x000000ee                __vector_9
+                0x000000ee                __vector_2
+                0x000000ee                __vector_15
+                0x000000ee                __vector_8
+                0x000000ee                __vector_14
+                0x000000ee                __vector_16
+                0x000000ee                __vector_18
+                0x000000ee                __vector_20
+ .text          0x000000f2       0x2a ADC_driver.o
+                0x000000f2                ADC_vinit
+                0x000000fe                ADC_u16Read
+ .text          0x0000011c      0x590 DIO.o
+                0x0000011c                DIO_vsetPinDir
+                0x00000222                DIO_vsetPortDir
+                0x0000024a                DIO_vwritePin
+                0x00000350                DIO_vwritePort
+                0x00000378                DIO_u8readPin
+                0x00000428                DIO_u8readPort
+                0x00000454                DIO_vtogglePin
+                0x000004d4                DIO_vtogglePort
+                0x0000050c                DIO_vconnectPullup
+                0x00000612                DIO_vwrite_low_nibble
+                0x0000065e                DIO_vwrite_high_nibble
+ .text          0x000006ac       0x24 LED.o
+                0x000006ac                LED_vInit
+                0x000006b4                LED_vTurnOn
+                0x000006bc                LED_vTurnOff
+                0x000006c4                LED_vToggle
+                0x000006ca                LED_u8ReadStatus
+ .text          0x000006d0      0x2f8 SlaveCode.o
+                0x000006d0                main
+                0x000008b6                __vector_10
+ .text          0x000009c8       0x92 SPI_driver.o
+                0x000009c8                SPI_MasterInit
+                0x000009f8                SPI_SlaveInit
+                0x00000a06                SPI_Transmitchar
+                0x00000a20                SPI_Receivechar
+                0x00000a2a                SPI_Transmitstring
+ .text          0x00000a5a       0x92 timer_driver.o
+                0x00000a5a                timer0_initializeCTC
+                0x00000a86                timer0_stop
+                0x00000a9a                timer_initializefastpwm
+                0x00000acc                change_dutycycle
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000aec        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x00000aec                . = ALIGN (0x2)
+ *(.text.*)
+ .text.avr-libc.fplib
+                0x00000aec        0x4 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000aec                __divsf3
+ .text.avr-libc.fplib
+                0x00000af0       0xcc d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000b06                __divsf3x
+                0x00000b0a                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000bbc       0x58 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000bbc                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000c14       0x7a d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000c14                __floatunsisf
+                0x00000c18                __floatsisf
+ .text.avr-libc.fplib
+                0x00000c8e        0xc d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000c8e                __fp_inf
+ .text.avr-libc.fplib
+                0x00000c9a        0x6 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000c9a                __fp_nan
+ .text.avr-libc.fplib
+                0x00000ca0        0xe d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00000ca0                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000cae        0xe d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000cae                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000cbc       0x22 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000cbc                __fp_round
+ .text.avr-libc.fplib
+                0x00000cde       0x44 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000cde                __fp_split3
+                0x00000cee                __fp_splitA
+ .text.avr-libc.fplib
+                0x00000d22        0xe d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00000d22                __fp_zero
+                0x00000d24                __fp_szero
+ .text.avr-libc.fplib
+                0x00000d30        0x4 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00000d30                __mulsf3
+ .text.avr-libc.fplib
+                0x00000d34       0xc2 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000d48                __mulsf3x
+                0x00000d4c                __mulsf3_pse
+ .text.libgcc   0x00000df6        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000df6        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000df6        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x00000df6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000df6        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                0x00000df6                _exit
+                0x00000df6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000df6        0x4 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000dfa                _etext = .
+
+.data           0x00800060        0x2 load address 0x00000dfa
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ADC_driver.o
+ .data          0x00800060        0x0 DIO.o
+ .data          0x00800060        0x0 LED.o
+ .data          0x00800060        0x2 SlaveCode.o
+                0x00800060                required_temperature
+ .data          0x00800062        0x0 SPI_driver.o
+ .data          0x00800062        0x0 timer_driver.o
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800062                . = ALIGN (0x2)
+                0x00800062                _edata = .
+                0x00800062                PROVIDE (__data_end, .)
+
+.bss            0x00800062        0x4
+                0x00800062                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800062        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800062        0x0 ADC_driver.o
+ .bss           0x00800062        0x0 DIO.o
+ .bss           0x00800062        0x0 LED.o
+ .bss           0x00800062        0x4 SlaveCode.o
+                0x00800062                last_air_conditioning_value
+                0x00800063                counter
+                0x00800064                temp_sensor_reading
+ .bss           0x00800066        0x0 SPI_driver.o
+ .bss           0x00800066        0x0 timer_driver.o
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800066        0x0 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ *(COMMON)
+                0x00800066                PROVIDE (__bss_end, .)
+                0x00000dfa                __data_load_start = LOADADDR (.data)
+                0x00000dfc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800066        0x0
+                0x00800066                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800066                PROVIDE (__noinit_end, .)
+                0x00800066                _end = .
+                0x00800066                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x1bcc
+ *(.stab)
+ .stab          0x00000000      0x6cc d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ .stab          0x000006cc       0x48 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                 0x54 (size before relaxing)
+ .stab          0x00000714      0x510 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                0x51c (size before relaxing)
+ .stab          0x00000c24      0x240 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                0x24c (size before relaxing)
+ .stab          0x00000e64      0x318 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                                0x324 (size before relaxing)
+ .stab          0x0000117c       0x78 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                 0x84 (size before relaxing)
+ .stab          0x000011f4       0x54 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                 0x60 (size before relaxing)
+ .stab          0x00001248       0x84 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                 0x90 (size before relaxing)
+ .stab          0x000012cc       0x84 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                 0x90 (size before relaxing)
+ .stab          0x00001350       0xfc d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                0x108 (size before relaxing)
+ .stab          0x0000144c      0x1d4 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                0x1e0 (size before relaxing)
+ .stab          0x00001620       0x90 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                 0x9c (size before relaxing)
+ .stab          0x000016b0       0x48 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                 0x54 (size before relaxing)
+ .stab          0x000016f8      0x4d4 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                0x4e0 (size before relaxing)
+
+.stabstr        0x00000000      0x583
+ *(.stabstr)
+ .stabstr       0x00000000      0x583 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x120
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ADC_driver.o
+ .debug_aranges
+                0x00000020       0x20 DIO.o
+ .debug_aranges
+                0x00000040       0x20 LED.o
+ .debug_aranges
+                0x00000060       0x20 SlaveCode.o
+ .debug_aranges
+                0x00000080       0x20 SPI_driver.o
+ .debug_aranges
+                0x000000a0       0x20 timer_driver.o
+ .debug_aranges
+                0x000000c0       0x20 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000100       0x20 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0xba0
+ *(.debug_info)
+ .debug_info    0x00000000       0xc1 ADC_driver.o
+ .debug_info    0x000000c1      0x30e DIO.o
+ .debug_info    0x000003cf      0x145 LED.o
+ .debug_info    0x00000514      0x160 SlaveCode.o
+ .debug_info    0x00000674      0x1bd SPI_driver.o
+ .debug_info    0x00000831       0xd8 timer_driver.o
+ .debug_info    0x00000909       0xdd d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_info    0x000009e6       0xdd d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x00000ac3       0xdd d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x42b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x83 ADC_driver.o
+ .debug_abbrev  0x00000083       0xcf DIO.o
+ .debug_abbrev  0x00000152       0x5c LED.o
+ .debug_abbrev  0x000001ae       0x9f SlaveCode.o
+ .debug_abbrev  0x0000024d      0x130 SPI_driver.o
+ .debug_abbrev  0x0000037d       0x72 timer_driver.o
+ .debug_abbrev  0x000003ef       0x14 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000403       0x14 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000417       0x14 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+
+.debug_line     0x00000000      0x76f
+ *(.debug_line)
+ .debug_line    0x00000000       0xe7 ADC_driver.o
+ .debug_line    0x000000e7      0x165 DIO.o
+ .debug_line    0x0000024c       0x45 LED.o
+ .debug_line    0x00000291       0xa4 SlaveCode.o
+ .debug_line    0x00000335      0x1a0 SPI_driver.o
+ .debug_line    0x000004d5       0xf3 timer_driver.o
+ .debug_line    0x000005c8       0x88 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_line    0x00000650       0x91 d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x000006e1       0x8e d:/courses/embedded/atmel studio/setupatmel/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+
+.debug_frame    0x00000000      0x2a4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x34 ADC_driver.o
+ .debug_frame   0x00000034       0xc4 DIO.o
+ .debug_frame   0x000000f8       0x64 LED.o
+ .debug_frame   0x0000015c       0x7c SlaveCode.o
+ .debug_frame   0x000001d8       0x78 SPI_driver.o
+ .debug_frame   0x00000250       0x54 timer_driver.o
+
+.debug_str      0x00000000      0x3ef
+ *(.debug_str)
+ .debug_str     0x00000000       0xfa ADC_driver.o
+                                0x12e (size before relaxing)
+ .debug_str     0x000000fa       0xfd DIO.o
+                                0x1f2 (size before relaxing)
+ .debug_str     0x000001f7       0x4b LED.o
+                                 0xdd (size before relaxing)
+ .debug_str     0x00000242       0x80 SlaveCode.o
+                                0x181 (size before relaxing)
+ .debug_str     0x000002c2       0xc4 SPI_driver.o
+                                0x1a4 (size before relaxing)
+ .debug_str     0x00000386       0x69 timer_driver.o
+                                0x149 (size before relaxing)
+
+.debug_loc      0x00000000      0x939
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x41 ADC_driver.o
+ .debug_loc     0x00000041      0x5c7 DIO.o
+ .debug_loc     0x00000608       0xbe LED.o
+ .debug_loc     0x000006c6      0x14b SlaveCode.o
+ .debug_loc     0x00000811      0x10a SPI_driver.o
+ .debug_loc     0x0000091b       0x1e timer_driver.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(SlaveCode.elf elf32-avr)
+LOAD linker stubs
