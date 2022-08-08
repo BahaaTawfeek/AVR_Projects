@@ -1,0 +1,3 @@
+developing a system that measure the distance of any object and display it on LCD
+Drivers:GPIO,ICU,LCD and Ultrasonic Sensor
+Microcontroller:ATmega32
