@@ -1,0 +1,8 @@
+developing a system to Control 4 rooms, TV, and air conditioning (AC) by using 2 AVR Atmega32. it has 2 modes 
+admin mode and guest mode -each one has password protected- Admin has more privilege which can control TV and AC but guest can 
+control the rooms only. If you enter password wrong multiple time you enter a block mode where you must wait
+a few seconds (20 Sec) then try again, this state is saved in the non-volatile memory (EEPROM) so restarting the system 
+will not allow you to bypass this step. admin can set the temperature of the air conditioner which switches
+on and off according to comparing target and ambient temperatures using a temp sensor. 
+Drivers:DIO,EEPROM,KEYPAD,LCD,ADC,Timer,SPI,LM35 Sensor
+Microcontroller:ATmega32
