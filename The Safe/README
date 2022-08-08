@@ -1,4 +1,3 @@
-safe_locker
 
 developing a system that ask the user to enter a password, and save it in internal EEPROM, then lock the safe until the 
 correct password entered to keep your money safe .
